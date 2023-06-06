@@ -1,0 +1,17 @@
+C:\Users\ignac\source\repos\ChallengeCompraGamer\Authentication\bin\Debug\net6.0\Authentication.deps.json
+C:\Users\ignac\source\repos\ChallengeCompraGamer\Authentication\bin\Debug\net6.0\Authentication.dll
+C:\Users\ignac\source\repos\ChallengeCompraGamer\Authentication\bin\Debug\net6.0\Authentication.pdb
+C:\Users\ignac\source\repos\ChallengeCompraGamer\Authentication\bin\Debug\net6.0\Entities.dll
+C:\Users\ignac\source\repos\ChallengeCompraGamer\Authentication\bin\Debug\net6.0\Repositories.dll
+C:\Users\ignac\source\repos\ChallengeCompraGamer\Authentication\bin\Debug\net6.0\Entities.pdb
+C:\Users\ignac\source\repos\ChallengeCompraGamer\Authentication\bin\Debug\net6.0\Repositories.pdb
+C:\Users\ignac\source\repos\ChallengeCompraGamer\Authentication\obj\Debug\net6.0\Authentication.csproj.AssemblyReference.cache
+C:\Users\ignac\source\repos\ChallengeCompraGamer\Authentication\obj\Debug\net6.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\source\repos\ChallengeCompraGamer\Authentication\obj\Debug\net6.0\Authentication.AssemblyInfoInputs.cache
+C:\Users\ignac\source\repos\ChallengeCompraGamer\Authentication\obj\Debug\net6.0\Authentication.AssemblyInfo.cs
+C:\Users\ignac\source\repos\ChallengeCompraGamer\Authentication\obj\Debug\net6.0\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\ignac\source\repos\ChallengeCompraGamer\Authentication\obj\Debug\net6.0\Authentication.csproj.CopyComplete
+C:\Users\ignac\source\repos\ChallengeCompraGamer\Authentication\obj\Debug\net6.0\Authentication.dll
+C:\Users\ignac\source\repos\ChallengeCompraGamer\Authentication\obj\Debug\net6.0\refint\Authentication.dll
+C:\Users\ignac\source\repos\ChallengeCompraGamer\Authentication\obj\Debug\net6.0\Authentication.pdb
+C:\Users\ignac\source\repos\ChallengeCompraGamer\Authentication\obj\Debug\net6.0\ref\Authentication.dll
