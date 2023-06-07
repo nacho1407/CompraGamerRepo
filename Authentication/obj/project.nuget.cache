@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J/vh3BcxVal+5+p2cnh2maHUGGFGf18KeauHomQtpXNmTzcozaIAwGVtBWhCJyN7EV6wa8QNDHzNrzaFTjLk3w==",
+  "dgSpecHash": "jrt/U0WV8kMyu0Lk7jpMpDs8avB83KrjLZuXPInh03FqFDzzjl/6gRDjYAeSsriJOqISjirbAuoHkOVAbGUAmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Authentication\\Authentication.csproj",
+  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Authentication\\Authentication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ignac\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\ignac\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",

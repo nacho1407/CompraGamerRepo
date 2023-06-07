@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h+FYPbg/cCdpDr7ZgDkiboRhf6rjkfyjQs30jTNaqsTgpGxNfwztF69ly1mkR3O98U1lxC7LKFrLq73RknVLJA==",
+  "dgSpecHash": "OIUlesbtUxm98gyjsIsEHtNtkmDoOd6BPbNESb6mySyujJRuUDkQ/Y0jEf3ihN9FULHyFlZKDgIUQloR478MIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

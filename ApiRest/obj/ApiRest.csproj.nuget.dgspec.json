@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\ApiRest\\ApiRest.csproj": {}
+    "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\ApiRest\\ApiRest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\ApiRest\\ApiRest.csproj": {
+    "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\ApiRest\\ApiRest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\ApiRest\\ApiRest.csproj",
+        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\ApiRest\\ApiRest.csproj",
         "projectName": "ApiRest",
-        "projectPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\ApiRest\\ApiRest.csproj",
+        "projectPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\ApiRest\\ApiRest.csproj",
         "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\ApiRest\\obj\\",
+        "outputPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\ApiRest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,17 +33,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Authentication\\Authentication.csproj": {
-                "projectPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Authentication\\Authentication.csproj"
+              "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Authentication\\Authentication.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Authentication\\Authentication.csproj"
               },
-              "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Customer\\Customer.csproj": {
-                "projectPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Customer\\Customer.csproj"
+              "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Customer\\Customer.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Customer\\Customer.csproj"
               },
-              "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Entities\\Entities.csproj"
+              "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Repositories\\Repositories.csproj"
+              "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -106,14 +106,14 @@
         }
       }
     },
-    "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Authentication\\Authentication.csproj": {
+    "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Authentication\\Authentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Authentication\\Authentication.csproj",
+        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Authentication\\Authentication.csproj",
         "projectName": "Authentication",
-        "projectPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Authentication\\Authentication.csproj",
+        "projectPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Authentication\\Authentication.csproj",
         "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Authentication\\obj\\",
+        "outputPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Authentication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -134,11 +134,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Entities\\Entities.csproj"
+              "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Repositories\\Repositories.csproj"
+              "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -182,14 +182,14 @@
         }
       }
     },
-    "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Customer\\Customer.csproj": {
+    "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Customer\\Customer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Customer\\Customer.csproj",
+        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Customer\\Customer.csproj",
         "projectName": "Customer",
-        "projectPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Customer\\Customer.csproj",
+        "projectPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Customer\\Customer.csproj",
         "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Customer\\obj\\",
+        "outputPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Customer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -241,14 +241,14 @@
         }
       }
     },
-    "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Entities\\Entities.csproj": {
+    "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -300,14 +300,14 @@
         }
       }
     },
-    "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Repositories\\Repositories.csproj",
+        "projectPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Repositories\\obj\\",
+        "outputPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -328,8 +328,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Entities\\Entities.csproj"
+              "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Entities\\Entities.csproj"
               }
             }
           }
