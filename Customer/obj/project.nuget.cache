@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PdoUB3lB3AwQM7mvpbxiy8HRuVRArZfEvNo7s1MOn0KvNogSBeitiCsouI4j9JCptVT04p61giiqW06ukDcWIw==",
+  "dgSpecHash": "l7x0b9q46hWtBs9BwPMewFKLN0hOXZzDRrXt8MnvZIQFSb80cdEbBVZQEeTnLI+QAqfao6UvSGVzL/xUiXWogQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Customer\\Customer.csproj",
+  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Customer\\Customer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

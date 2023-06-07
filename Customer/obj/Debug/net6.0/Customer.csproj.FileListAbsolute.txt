@@ -10,3 +10,15 @@ C:\Users\ignac\source\repos\ChallengeCompraGamer\Customer\obj\Debug\net6.0\Custo
 C:\Users\ignac\source\repos\ChallengeCompraGamer\Customer\obj\Debug\net6.0\refint\Customer.dll
 C:\Users\ignac\source\repos\ChallengeCompraGamer\Customer\obj\Debug\net6.0\Customer.pdb
 C:\Users\ignac\source\repos\ChallengeCompraGamer\Customer\obj\Debug\net6.0\ref\Customer.dll
+C:\Users\ignac\source\repos\CompraGamerRepo\Customer\bin\Debug\net6.0\Customer.deps.json
+C:\Users\ignac\source\repos\CompraGamerRepo\Customer\bin\Debug\net6.0\Customer.dll
+C:\Users\ignac\source\repos\CompraGamerRepo\Customer\bin\Debug\net6.0\Customer.pdb
+C:\Users\ignac\source\repos\CompraGamerRepo\Customer\obj\Debug\net6.0\Customer.csproj.AssemblyReference.cache
+C:\Users\ignac\source\repos\CompraGamerRepo\Customer\obj\Debug\net6.0\Customer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\source\repos\CompraGamerRepo\Customer\obj\Debug\net6.0\Customer.AssemblyInfoInputs.cache
+C:\Users\ignac\source\repos\CompraGamerRepo\Customer\obj\Debug\net6.0\Customer.AssemblyInfo.cs
+C:\Users\ignac\source\repos\CompraGamerRepo\Customer\obj\Debug\net6.0\Customer.csproj.CoreCompileInputs.cache
+C:\Users\ignac\source\repos\CompraGamerRepo\Customer\obj\Debug\net6.0\Customer.dll
+C:\Users\ignac\source\repos\CompraGamerRepo\Customer\obj\Debug\net6.0\refint\Customer.dll
+C:\Users\ignac\source\repos\CompraGamerRepo\Customer\obj\Debug\net6.0\Customer.pdb
+C:\Users\ignac\source\repos\CompraGamerRepo\Customer\obj\Debug\net6.0\ref\Customer.dll

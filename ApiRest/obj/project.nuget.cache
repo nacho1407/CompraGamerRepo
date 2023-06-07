@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GlCq0gAUNubdn37/Iwv2w8l67YYQarmkbAUWxJJmgmpYYAToquS7YFKJLAEA5XdKBlxtkgTeCG96pWBsHGN/gA==",
+  "dgSpecHash": "YV87Yv4C7xh36zPfNe0jehUzXsgJ6knBH6xeYAeBzfgIJR8BP4KUVlyeBVD0FtPQpolhL6gVnXmVRYmCt/970Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\ApiRest\\ApiRest.csproj",
+  "projectFilePath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\ApiRest\\ApiRest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ignac\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\ignac\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",

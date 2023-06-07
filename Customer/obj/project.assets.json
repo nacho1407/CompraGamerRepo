@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Customer\\Customer.csproj",
+      "projectUniqueName": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Customer\\Customer.csproj",
       "projectName": "Customer",
-      "projectPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Customer\\Customer.csproj",
+      "projectPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Customer\\Customer.csproj",
       "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ignac\\source\\repos\\ChallengeCompraGamer\\Customer\\obj\\",
+      "outputPath": "C:\\Users\\ignac\\source\\repos\\CompraGamerRepo\\Customer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
