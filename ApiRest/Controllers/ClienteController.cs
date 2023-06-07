@@ -23,7 +23,7 @@ namespace ApiRest.Controllers
         }
 
         // GET api/<UsuarioController>/5
-        [HttpGet("{dni}")]
+        [HttpGet("Dni/{dni}")]
         [Authorize]
         public IActionResult Get(long dni)
         {
@@ -33,7 +33,7 @@ namespace ApiRest.Controllers
         }
 
         // GET api/<UsuarioController>/5
-        [HttpGet("{id}")]
+        [HttpGet("Id/{id}")]
         [Authorize]
         public IActionResult Get(int id)
         {
